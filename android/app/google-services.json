@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849785012255",
+    "firebase_url": "https://crocco-wears.firebaseio.com",
+    "project_id": "crocco-wears",
+    "storage_bucket": "crocco-wears.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849785012255:android:61f9282c8e210614",
+        "android_client_info": {
+          "package_name": "com.example.firetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849785012255-gg2h2vn23i5n9eicamos2f99bp91g076.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy4XYuNvmC5KcGJm5LwaYTit9CYtI3WRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849785012255-gg2h2vn23i5n9eicamos2f99bp91g076.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
